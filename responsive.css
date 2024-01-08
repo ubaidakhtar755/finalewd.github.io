@@ -1363,10 +1363,8 @@
     }
     .silver-sub-box-content-and-dotted-box {
         width: 100%;
-        /* border: 2px solid black; */
         display: flex;
         padding-left: 10px;
-        /* justify-content: center; */
         align-items: center;
     }
     div#silver-sub-box-content-and-dotted-box-add-margin p {
